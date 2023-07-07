@@ -1,0 +1,6 @@
+{
+  "message": "Hello world!",
+  "author": "alobaton",
+  "likes": 5,
+  "tags": ["quarkus", "is", "amazing"]
+}
